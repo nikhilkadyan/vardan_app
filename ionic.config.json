@@ -1,0 +1,7 @@
+{
+  "name": "vardan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
